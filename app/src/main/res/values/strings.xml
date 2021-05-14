@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Druglogy</string>
+    <string name="true_tick">\u2714</string>
+
+    <string-array name="drugs_name">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Seven</item>
+        <item>Seven</item>
+        <item>Seven</item>
+        <item>Seven</item>
+        <item>Seven</item>
+        <item>Seven</item>
+        <item>Seven</item>
+        <item>Seven</item>
+        <item>Seven</item>
+        <item>Seven</item>
+        <item>Seven</item>
+        <item>Seven</item>
+
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
